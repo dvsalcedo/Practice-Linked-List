@@ -1,0 +1,13 @@
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\david.salcedo\Documents\Estudios\Net Project\Basis\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
