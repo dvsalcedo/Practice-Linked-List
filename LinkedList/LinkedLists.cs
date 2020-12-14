@@ -44,4 +44,9 @@ public class LinkedLists{
             current = current.next;
         }
     }
+
+    public Node First()
+    {
+        return head;
+    }
 }
